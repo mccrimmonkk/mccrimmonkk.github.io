@@ -1,0 +1,8 @@
+name: "mccrimmonkk.github.io"
+navbar:
+  title: "Kyera McCrimmon"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
