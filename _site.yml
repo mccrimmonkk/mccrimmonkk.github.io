@@ -1,4 +1,5 @@
 name: "mccrimmonkk.github.io"
+output_dir: "."
 navbar:
   title: "Kyera McCrimmon"
   left:
